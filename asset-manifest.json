@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RLTHACK/static/css/main.54624e14.css",
+    "main.js": "/RLTHACK/static/js/main.63802ab4.js",
+    "index.html": "/RLTHACK/index.html",
+    "main.54624e14.css.map": "/RLTHACK/static/css/main.54624e14.css.map",
+    "main.63802ab4.js.map": "/RLTHACK/static/js/main.63802ab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54624e14.css",
+    "static/js/main.63802ab4.js"
+  ]
+}
